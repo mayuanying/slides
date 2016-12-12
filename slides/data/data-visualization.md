@@ -287,8 +287,16 @@ bgcolor: #f2f2f2
 
 ---
 
-bgcolor: #f2f2f2
-![URL](img/air3.png)
+| Air Pollution Location | Equivalent in cigarettes per day |
+|------------------------|----------------------------------|
+|US, average | 0.4
+|EU, average | 1.6
+|China, average | 2.4
+|Beijing, average | 4.0
+|Handan, average | 5.5
+|Beijing, bad day | 25.0
+|Harbin, very bad day | 45.0
+|Shenyang, worst recorded | 63.0
 
 ---
 
@@ -415,10 +423,6 @@ bgcolor: white
 
 ---
 
-![URL](img/interest8.jpg)
-
----
-
 bgcolor: white
 
 ![URL](img/interest10.png)
@@ -430,6 +434,10 @@ bgcolor: white
 ---
 
 iframe(src="http://shangyi.360.cn/report/brand_develop/24051" fullscreen)
+
+---
+
+iframe(src="https://fenxi.360.cn/report/overview?domainId=31145" fullscreen)
 
 ---
 
