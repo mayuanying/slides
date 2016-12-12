@@ -1,0 +1,15 @@
+{
+  "name": "fe-camp",
+  "version": "1.0.0",
+  "description": "Front-end Camp",
+  "scripts": {
+    "toc": "node toc.js",
+    "start": "node index.js"
+  },
+  "author": "zhaowenbo",
+  "license": "MIT",
+  "devDependencies": {
+    "parseurl": "^1.3.1",
+    "send": "^0.14.1"
+  }
+}
