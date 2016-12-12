@@ -5,7 +5,7 @@ transition: slide
 
 bgcolor: white
 
-![URL](img/000.png)
+![URL](img/000.jpg)
 
 ---
 
@@ -50,25 +50,14 @@ fragment: true
 
 fragment: true
 
-## Quantitative
+* Quantitative
+  * Duration in days: 1, 4, 23333
 
-Duration in days: 1, 4, 23333
+* Ordered / Qualitative
+  * Bug Severity: Blocking, Average, Who Cares
 
----
-
-fragment: true
-
-## Ordered / Qualitative
-
-Bug Severity: Blocking, Average, Who Cares
-
----
-
-fragment: true
-
-## Categorical
-
-Fruits: Apples, Oranges, Banana
+* Categorical
+  * Fruits: Apples, Oranges, Banana
 
 ---
 
@@ -78,7 +67,7 @@ Fruits: Apples, Oranges, Banana
 
 fragment: true
 
-## X and Y
+## Location
 
 ![URL](img/v1.jpg)
 
@@ -139,10 +128,6 @@ fragment: true
 
 ---
 
-## Location
-
----
-
 bgcolor: white
 
 ![URL](img/03.png)
@@ -187,75 +172,17 @@ iframe(src="http://echarts.baidu.com/gallery/view.html?c=lines-airline&reset=1&e
 
 ---
 
-fragment: true;
-
-## Comparison
-
-![URL](img/c1.png)
-
----
-
-fragment: true;
-
-## Relationship
-
-![URL](img/c2.png)
-
----
-
-fragment: true;
-
-## Trend
-
-![URL](img/c3.png)
-
----
-
-fragment: true;
-
-## Distribution
-
-![URL](img/c4.png)
-
----
-
-fragment: true;
-
-## Time
-
-![URL](img/c5.png)
-
----
-
-fragment: true;
-
-## Location
-
-![URL](img/c6.png)
-
----
-
-fragment: true;
-
-## Proportion
-
-![URL](img/c7.png)
-
----
-
 ## Some Data Visualization Practices
 
 ---
 
-iframe(src="https://www.google.com/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=b&amp;strail=false&amp;bcs=d&amp;nselm=s&amp;met_x=sp_dyn_tfrt_in&amp;scale_x=lin&amp;ind_x=false&amp;met_y=gdp_expenditure_constant_2000_us&amp;scale_y=lin&amp;ind_y=false&amp;met_s=sp_pop_totl&amp;scale_s=lin&amp;ind_s=false&amp;dimp_c=country:region&amp;ifdim=country&amp;tunit=Y&amp;pit=1417363200000&amp;hl=en_US&amp;dl=en_US&amp;ind=false&amp;icfg&amp;iconSiz" fullscreen)
-
----
-
-iframe(src="https://www.google.com/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=b&amp;strail=false&amp;bcs=d&amp;nselm=s&amp;met_y=gdp_expenditure_constant_2000_us&amp;scale_y=lin&amp;ind_y=false&amp;met_s=sp_pop_totl&amp;scale_s=lin&amp;ind_s=false&amp;dimp_c=country:region&amp;met_x=sp_dyn_le00_in&amp;scale_x=lin&amp;ind_x=false&amp;ifdim=country&amp;tunit=Y&amp;pit=1417363200000&amp;hl=en_US&amp;dl=en_US&amp;ind=false&amp;icfg&amp;iconSiz" fullscreen)
+iframe(src="https://www.google.com/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=b&amp;strail=false&amp;bcs=d&amp;nselm=s&amp;met_x=sp_dyn_tfrt_in&amp;scale_x=lin&amp;ind_x=false&amp;met_s=sp_pop_totl&amp;scale_s=lin&amp;ind_s=false&amp;dimp_c=country:region&amp;met_y=sp_dyn_le00_in&amp;scale_y=lin&amp;ind_y=false&amp;ifdim=country&amp;tunit=Y&amp;pit=1417363200000&amp;hl=en_US&amp;dl=en_US&amp;ind=false&amp;icfg&amp;iconSize=0.5" fullscreen)
 
 ---
 
 bgcolor: white
+
+## <h2 style="color: #000;">Charles Joseph Minard</h2>
 
 ![拿破仑](img/march.png)
 
@@ -287,19 +214,6 @@ bgcolor: #f2f2f2
 
 ---
 
-| Air Pollution Location | Equivalent in cigarettes per day |
-|------------------------|----------------------------------|
-|US, average | 0.4
-|EU, average | 1.6
-|China, average | 2.4
-|Beijing, average | 4.0
-|Handan, average | 5.5
-|Beijing, bad day | 25.0
-|Harbin, very bad day | 45.0
-|Shenyang, worst recorded | 63.0
-
----
-
 bgcolor: white
 
 ![URL](img/air4.png)
@@ -326,13 +240,6 @@ bgcolor: white
 
 ![URL](img/5.png)
 
----
-
-![URL](img/1.png)
-
----
-
-![URL](img/2.jpg)
 
 ---
 
@@ -354,19 +261,18 @@ bgcolor: white
 
 ---
 
+bgcolor: white
+
 ![URL](img/data-lie2.png)
 
 ---
 
 bgcolor: white
 
-![URL](img/data-lie3.png)
-
----
-
-bgcolor: white
-
-![URL](img/data-lie4.png)
+<div class="images-v">
+  <img src="img/data-lie3.png">
+  <img src="img/data-lie4.png" class="fragment">
+</div>
 
 ---
 
@@ -378,54 +284,10 @@ bgcolor: white
 
 bgcolor: white
 
-![URL](img/data-lie6.jpg)
-
----
-
-bgcolor: white
-
-![URL](img/data-lie7.jpg)
-
----
-
-## Interesting Data
-
----
-
-bgcolor: white
-
-![URL](img/interest4.png)
-
----
-
-bgcolor: white
-
-![URL](img/interest5.png)
-
----
-
-<div class="images">
-  <img src="img/interest1.jpg">
-  <img src="img/interest2.jpg" class="fragment">
-  <img src="img/interest3.jpg" class="fragment">
+<div class="images-v">
+  <img src="img/data-lie6.jpg" width="600">
+  <img src="img/data-lie7.jpg" width="600" class="fragment">
 </div>
-
-<style type="text/css">
-  .images {
-    text-align: center;
-    letter-spacing: 1em;
-  }
-  .images img {
-    display: inline-block;
-    width: 30%;
-  }
-</style>
-
----
-
-bgcolor: white
-
-![URL](img/interest10.png)
 
 ---
 
@@ -488,7 +350,7 @@ bgcolor:#fcf0e4
 
 bgcolor:white
 
-![URL](img/111.png)
+![URL](img/111.jpg)
 
 
 
