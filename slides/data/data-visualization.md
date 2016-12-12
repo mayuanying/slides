@@ -263,12 +263,6 @@ bgcolor: white
 
 bgcolor: white
 
-![URL](img/data-lie2.png)
-
----
-
-bgcolor: white
-
 <div class="images-v">
   <img src="img/data-lie3.png">
   <img src="img/data-lie4.png" class="fragment">
