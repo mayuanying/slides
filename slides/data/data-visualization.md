@@ -204,7 +204,7 @@ bgcolor: white
 
 bgcolor: #f2f2f2
 
-<video controls src="/slides/data/img/air.webm" autoplay loop></video>
+<video controls src="slides/data/img/air.webm" autoplay loop></video>
 
 ---
 
