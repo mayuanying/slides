@@ -3,12 +3,6 @@ transition: slide
 
 ---
 
-bgcolor: white
-
-![URL](img/000.jpg)
-
----
-
 关于我
 
 * 马源英
@@ -341,10 +335,6 @@ bgcolor:#fcf0e4
   }
 </style>
 ---
-
-bgcolor:white
-
-![URL](img/111.jpg)
 
 
 
